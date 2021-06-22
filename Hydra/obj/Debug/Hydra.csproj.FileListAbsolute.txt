@@ -1,0 +1,10 @@
+C:\Users\Main\source\repos\Hydra\Hydra\bin\Debug\Hydra.exe.config
+C:\Users\Main\source\repos\Hydra\Hydra\bin\Debug\Hydra.exe
+C:\Users\Main\source\repos\Hydra\Hydra\bin\Debug\Hydra.pdb
+C:\Users\Main\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.AssemblyReference.cache
+C:\Users\Main\source\repos\Hydra\Hydra\obj\Debug\Hydra.Form1.resources
+C:\Users\Main\source\repos\Hydra\Hydra\obj\Debug\Hydra.Properties.Resources.resources
+C:\Users\Main\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.GenerateResource.cache
+C:\Users\Main\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\Hydra\Hydra\obj\Debug\Hydra.exe
+C:\Users\Main\source\repos\Hydra\Hydra\obj\Debug\Hydra.pdb
